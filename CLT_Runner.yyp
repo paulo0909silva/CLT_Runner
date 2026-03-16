@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "CLT_Runner",
   "resources": [
+    {"id":{"name":"spr_fundo","path":"sprites/spr_fundo/spr_fundo.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
