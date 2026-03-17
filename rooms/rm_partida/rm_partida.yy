@@ -1,7 +1,7 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "Room1",
+  "name": "rm_partida",
   "isDnd": false,
   "volume": 1.0,
   "parentRoom": null,
@@ -28,10 +28,10 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_3D2BDB6C","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_5FB2324","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_2B59BD82","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_1582E580","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_3D2BDB6C","path":"rooms/rm_partida/rm_partida.yy",},
+    {"name":"inst_5FB2324","path":"rooms/rm_partida/rm_partida.yy",},
+    {"name":"inst_2B59BD82","path":"rooms/rm_partida/rm_partida.yy",},
+    {"name":"inst_1582E580","path":"rooms/rm_partida/rm_partida.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
